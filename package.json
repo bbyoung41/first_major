@@ -1,0 +1,22 @@
+{
+  "name": "future_letter_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbyoung41/first_major.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbyoung41/first_major/issues"
+  },
+  "homepage": "https://github.com/bbyoung41/first_major#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
